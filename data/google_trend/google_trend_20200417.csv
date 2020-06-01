@@ -1,0 +1,211 @@
+"_id",DMA,COVID19,Coronavirus
+5ec1bfc1dcf71743db47d4c6,Abilene-Sweetwater TX,51,54
+5ec1bfc1dcf71743db47d4c7,Albany GA,45,54
+5ec1bfc1dcf71743db47d4c8,Albany-Schenectady-Troy NY,61,71
+5ec1bfc1dcf71743db47d4c9,Albuquerque-Santa Fe NM,63,76
+5ec1bfc1dcf71743db47d4ca,Alexandria LA,63,60
+5ec1bfc1dcf71743db47d4cb,Alpena MI,91,100
+5ec1bfc1dcf71743db47d4cc,Amarillo TX,57,55
+5ec1bfc1dcf71743db47d4cd,Anchorage AK,89,68
+5ec1bfc1dcf71743db47d4ce,Atlanta GA,55,68
+5ec1bfc1dcf71743db47d4cf,Augusta GA,48,56
+5ec1bfc1dcf71743db47d4d0,Austin TX,63,69
+5ec1bfc1dcf71743db47d4d1,Bakersfield CA,56,62
+5ec1bfc1dcf71743db47d4d2,Baltimore MD,61,70
+5ec1bfc1dcf71743db47d4d3,Bangor ME,69,73
+5ec1bfc1dcf71743db47d4d4,Baton Rouge LA,46,60
+5ec1bfc1dcf71743db47d4d5,Beaumont-Port Arthur TX,44,52
+5ec1bfc1dcf71743db47d4d6,Bend OR,84,71
+5ec1bfc1dcf71743db47d4d7,"Billings, MT",59,71
+5ec1bfc1dcf71743db47d4d8,Biloxi-Gulfport MS,59,57
+5ec1bfc1dcf71743db47d4d9,Binghamton NY,77,69
+5ec1bfc1dcf71743db47d4da,Birmingham AL,58,63
+5ec1bfc1dcf71743db47d4db,Bluefield-Beckley-Oak Hill WV,50,71
+5ec1bfc1dcf71743db47d4dc,Boise ID,67,83
+5ec1bfc1dcf71743db47d4dd,Boston MA-Manchester NH,71,74
+5ec1bfc1dcf71743db47d4de,Bowling Green KY,60,61
+5ec1bfc1dcf71743db47d4df,Buffalo NY,60,64
+5ec1bfc1dcf71743db47d4e0,Burlington VT-Plattsburgh NY,88,71
+5ec1bfc1dcf71743db47d4e1,Butte-Bozeman MT,74,82
+5ec1bfc1dcf71743db47d4e2,Casper-Riverton WY,62,74
+5ec1bfc1dcf71743db47d4e3,Cedar Rapids-Waterloo-Iowa City & Dubuque IA,68,66
+5ec1bfc1dcf71743db47d4e4,Champaign & Springfield-Decatur IL,64,59
+5ec1bfc1dcf71743db47d4e5,Charleston SC,53,62
+5ec1bfc1dcf71743db47d4e6,Charleston-Huntington WV,62,63
+5ec1bfc1dcf71743db47d4e7,Charlotte NC,48,62
+5ec1bfc1dcf71743db47d4e8,Charlottesville VA,75,68
+5ec1bfc1dcf71743db47d4e9,Chattanooga TN,54,61
+5ec1bfc1dcf71743db47d4ea,Cheyenne WY-Scottsbluff NE,74,69
+5ec1bfc1dcf71743db47d4eb,Chicago IL,63,72
+5ec1bfc1dcf71743db47d4ec,Chico-Redding CA,66,67
+5ec1bfc1dcf71743db47d4ed,Cincinnati OH,57,69
+5ec1bfc1dcf71743db47d4ee,Clarksburg-Weston WV,51,76
+5ec1bfc1dcf71743db47d4ef,Cleveland-Akron (Canton) OH,53,70
+5ec1bfc1dcf71743db47d4f0,Colorado Springs-Pueblo CO,73,69
+5ec1bfc1dcf71743db47d4f1,Columbia SC,45,54
+5ec1bfc1dcf71743db47d4f2,Columbia-Jefferson City MO,66,59
+5ec1bfc1dcf71743db47d4f3,Columbus GA,40,58
+5ec1bfc1dcf71743db47d4f4,Columbus OH,58,69
+5ec1bfc1dcf71743db47d4f5,Columbus-Tupelo-West Point MS,42,57
+5ec1bfc1dcf71743db47d4f6,Corpus Christi TX,54,56
+5ec1bfc1dcf71743db47d4f7,Dallas-Ft. Worth TX,56,63
+5ec1bfc1dcf71743db47d4f8,Davenport IA-Rock Island-Moline IL,58,62
+5ec1bfc1dcf71743db47d4f9,Dayton OH,52,67
+5ec1bfc1dcf71743db47d4fa,Denver CO,76,76
+5ec1bfc1dcf71743db47d4fb,Des Moines-Ames IA,67,63
+5ec1bfc1dcf71743db47d4fc,Detroit MI,68,79
+5ec1bfc1dcf71743db47d4fd,Dothan AL,45,68
+5ec1bfc1dcf71743db47d4fe,Duluth MN-Superior WI,86,73
+5ec1bfc1dcf71743db47d4ff,El Paso TX,52,63
+5ec1bfc1dcf71743db47d500,Elmira NY,56,70
+5ec1bfc1dcf71743db47d501,Erie PA,56,65
+5ec1bfc1dcf71743db47d502,Eugene OR,66,74
+5ec1bfc1dcf71743db47d503,Eureka CA,77,67
+5ec1bfc1dcf71743db47d504,Evansville IN,57,60
+5ec1bfc1dcf71743db47d505,Fairbanks AK,93,69
+5ec1bfc1dcf71743db47d506,Fargo-Valley City ND,65,71
+5ec1bfc1dcf71743db47d507,Flint-Saginaw-Bay City MI,67,73
+5ec1bfc1dcf71743db47d508,Florence-Myrtle Beach SC,46,56
+5ec1bfc1dcf71743db47d509,Fresno-Visalia CA,55,61
+5ec1bfc1dcf71743db47d50a,Ft. Myers-Naples FL,70,73
+5ec1bfc1dcf71743db47d50b,Ft. Smith-Fayetteville-Springdale-Rogers AR,66,63
+5ec1bfc1dcf71743db47d50c,Ft. Wayne IN,55,63
+5ec1bfc1dcf71743db47d50d,Gainesville FL,75,69
+5ec1bfc1dcf71743db47d50e,Glendive MT,87,79
+5ec1bfc1dcf71743db47d50f,Grand Junction-Montrose CO,84,67
+5ec1bfc1dcf71743db47d510,Grand Rapids-Kalamazoo-Battle Creek MI,65,73
+5ec1bfc1dcf71743db47d511,Great Falls MT,71,68
+5ec1bfc1dcf71743db47d512,Green Bay-Appleton WI,63,72
+5ec1bfc1dcf71743db47d513,Greensboro-High Point-Winston Salem NC,49,60
+5ec1bfc1dcf71743db47d514,Greenville-New Bern-Washington NC,45,59
+5ec1bfc1dcf71743db47d515,Greenville-Spartanburg SC-Asheville NC-Anderson SC,58,64
+5ec1bfc1dcf71743db47d516,Greenwood-Greenville MS,35,52
+5ec1bfc1dcf71743db47d517,Harlingen-Weslaco-Brownsville-McAllen TX,39,52
+5ec1bfc1dcf71743db47d518,Harrisburg-Lancaster-Lebanon-York PA,64,71
+5ec1bfc1dcf71743db47d519,Harrisonburg VA,48,64
+5ec1bfc1dcf71743db47d51a,Hartford & New Haven CT,65,72
+5ec1bfc1dcf71743db47d51b,Hattiesburg-Laurel MS,39,59
+5ec1bfc1dcf71743db47d51c,Helena MT,80,77
+5ec1bfc1dcf71743db47d51d,Honolulu HI,93,76
+5ec1bfc1dcf71743db47d51e,Houston TX,53,65
+5ec1bfc1dcf71743db47d51f,Huntsville-Decatur (Florence) AL,60,67
+5ec1bfc1dcf71743db47d520,Idaho Falls-Pocatello ID,64,73
+5ec1bfc1dcf71743db47d521,Indianapolis IN,60,63
+5ec1bfc1dcf71743db47d522,Jackson MS,38,55
+5ec1bfc1dcf71743db47d523,Jackson TN,45,56
+5ec1bfc1dcf71743db47d524,Jacksonville FL,54,60
+5ec1bfc1dcf71743db47d525,Johnstown-Altoona PA,62,77
+5ec1bfc1dcf71743db47d526,Jonesboro AR,69,58
+5ec1bfc1dcf71743db47d527,Joplin MO-Pittsburg KS,71,64
+5ec1bfc1dcf71743db47d528,Juneau AK,100,79
+5ec1bfc1dcf71743db47d529,Kansas City MO,53,62
+5ec1bfc1dcf71743db47d52a,Knoxville TN,62,65
+5ec1bfc1dcf71743db47d52b,La Crosse-Eau Claire WI,71,69
+5ec1bfc1dcf71743db47d52c,Lafayette IN,65,68
+5ec1bfc1dcf71743db47d52d,Lafayette LA,51,54
+5ec1bfc1dcf71743db47d52e,Lake Charles LA,58,60
+5ec1bfc1dcf71743db47d52f,Lansing MI,65,75
+5ec1bfc1dcf71743db47d530,Laredo TX,37,50
+5ec1bfc1dcf71743db47d531,Las Vegas NV,53,70
+5ec1bfc1dcf71743db47d532,Lexington KY,77,59
+5ec1bfc1dcf71743db47d533,Lima OH,64,69
+5ec1bfc1dcf71743db47d534,Lincoln & Hastings-Kearney NE,67,60
+5ec1bfc1dcf71743db47d535,Little Rock-Pine Bluff AR,59,61
+5ec1bfc1dcf71743db47d536,Los Angeles CA,62,73
+5ec1bfc1dcf71743db47d537,Louisville KY,57,60
+5ec1bfc1dcf71743db47d538,Lubbock TX,47,53
+5ec1bfc1dcf71743db47d539,Macon GA,52,54
+5ec1bfc1dcf71743db47d53a,Madison WI,65,69
+5ec1bfc1dcf71743db47d53b,Mankato MN,62,69
+5ec1bfc1dcf71743db47d53c,Marquette MI,99,79
+5ec1bfc1dcf71743db47d53d,Medford-Klamath Falls OR,75,69
+5ec1bfc1dcf71743db47d53e,Memphis TN,45,55
+5ec1bfc1dcf71743db47d53f,Meridian MS,35,56
+5ec1bfc1dcf71743db47d540,Miami-Ft. Lauderdale FL,54,76
+5ec1bfc1dcf71743db47d541,Milwaukee WI,60,67
+5ec1bfc1dcf71743db47d542,Minneapolis-St. Paul MN,81,73
+5ec1bfc1dcf71743db47d543,Minot-Bismarck-Dickinson(Williston) ND,56,71
+5ec1bfc1dcf71743db47d544,Missoula MT,82,81
+5ec1bfc1dcf71743db47d545,Mobile AL-Pensacola (Ft. Walton Beach) FL,51,58
+5ec1bfc1dcf71743db47d546,Monroe LA-El Dorado AR,59,59
+5ec1bfc1dcf71743db47d547,Monterey-Salinas CA,65,67
+5ec1bfc1dcf71743db47d548,Montgomery (Selma) AL,30,50
+5ec1bfc1dcf71743db47d549,Nashville TN,61,63
+5ec1bfc1dcf71743db47d54a,New Orleans LA,54,60
+5ec1bfc1dcf71743db47d54b,New York NY,56,79
+5ec1bfc1dcf71743db47d54c,Norfolk-Portsmouth-Newport News VA,49,62
+5ec1bfc1dcf71743db47d54d,North Platte NE,67,60
+5ec1bfc1dcf71743db47d54e,Odessa-Midland TX,43,58
+5ec1bfc1dcf71743db47d54f,Oklahoma City OK,56,59
+5ec1bfc1dcf71743db47d550,Omaha NE,64,60
+5ec1bfc1dcf71743db47d551,Orlando-Daytona Beach-Melbourne FL,57,72
+5ec1bfc1dcf71743db47d552,Ottumwa IA-Kirksville MO,54,67
+5ec1bfc1dcf71743db47d553,Paducah KY-Cape Girardeau MO-Harrisburg-Mount Vernon IL,68,58
+5ec1bfc1dcf71743db47d554,Palm Springs CA,61,69
+5ec1bfc1dcf71743db47d555,Panama City FL,62,68
+5ec1bfc1dcf71743db47d556,Parkersburg WV,86,79
+5ec1bfc1dcf71743db47d557,Peoria-Bloomington IL,61,60
+5ec1bfc1dcf71743db47d558,Philadelphia PA,63,72
+5ec1bfc1dcf71743db47d559,Phoenix AZ,61,73
+5ec1bfc1dcf71743db47d55a,Pittsburgh PA,59,73
+5ec1bfc1dcf71743db47d55b,Portland OR,67,73
+5ec1bfc1dcf71743db47d55c,Portland-Auburn ME,75,75
+5ec1bfc1dcf71743db47d55d,Presque Isle ME,63,73
+5ec1bfc1dcf71743db47d55e,Providence RI-New Bedford MA,59,70
+5ec1bfc1dcf71743db47d55f,Quincy IL-Hannibal MO-Keokuk IA,56,61
+5ec1bfc1dcf71743db47d560,Raleigh-Durham (Fayetteville) NC,51,62
+5ec1bfc1dcf71743db47d561,Rapid City SD,63,73
+5ec1bfc1dcf71743db47d562,Reno NV,72,69
+5ec1bfc1dcf71743db47d563,Richmond-Petersburg VA,57,65
+5ec1bfc1dcf71743db47d564,Roanoke-Lynchburg VA,57,64
+5ec1bfc1dcf71743db47d565,Rochester MN-Mason City IA-Austin MN,84,68
+5ec1bfc1dcf71743db47d566,Rochester NY,60,66
+5ec1bfc1dcf71743db47d567,Rockford IL,62,60
+5ec1bfc1dcf71743db47d568,Sacramento-Stockton-Modesto CA,64,66
+5ec1bfc1dcf71743db47d569,Salisbury MD,61,69
+5ec1bfc1dcf71743db47d56a,Salt Lake City UT,63,70
+5ec1bfc1dcf71743db47d56b,San Angelo TX,53,55
+5ec1bfc1dcf71743db47d56c,San Antonio TX,53,59
+5ec1bfc1dcf71743db47d56d,San Diego CA,71,74
+5ec1bfc1dcf71743db47d56e,San Francisco-Oakland-San Jose CA,65,78
+5ec1bfc1dcf71743db47d56f,Santa Barbara-Santa Maria-San Luis Obispo CA,70,69
+5ec1bfc1dcf71743db47d570,Savannah GA,53,62
+5ec1bfc1dcf71743db47d571,Seattle-Tacoma WA,74,78
+5ec1bfc1dcf71743db47d572,Sherman TX-Ada OK,58,58
+5ec1bfc1dcf71743db47d573,Shreveport LA,53,55
+5ec1bfc1dcf71743db47d574,Sioux City IA,69,63
+5ec1bfc1dcf71743db47d575,Sioux Falls(Mitchell) SD,73,66
+5ec1bfc1dcf71743db47d576,South Bend-Elkhart IN,52,66
+5ec1bfc1dcf71743db47d577,Spokane WA,67,69
+5ec1bfc1dcf71743db47d578,Springfield MO,64,65
+5ec1bfc1dcf71743db47d579,Springfield-Holyoke MA,58,61
+5ec1bfc1dcf71743db47d57a,St. Joseph MO,45,57
+5ec1bfc1dcf71743db47d57b,St. Louis MO,57,62
+5ec1bfc1dcf71743db47d57c,Syracuse NY,58,69
+5ec1bfc1dcf71743db47d57d,Tallahassee FL-Thomasville GA,50,63
+5ec1bfc1dcf71743db47d57e,Tampa-St. Petersburg (Sarasota) FL,58,70
+5ec1bfc1dcf71743db47d57f,Terre Haute IN,57,62
+5ec1bfc1dcf71743db47d580,Toledo OH,60,65
+5ec1bfc1dcf71743db47d581,Topeka KS,56,60
+5ec1bfc1dcf71743db47d582,Traverse City-Cadillac MI,88,82
+5ec1bfc1dcf71743db47d583,Tri-Cities TN-VA,58,63
+5ec1bfc1dcf71743db47d584,Tucson (Sierra Vista) AZ,64,71
+5ec1bfc1dcf71743db47d585,Tulsa OK,62,58
+5ec1bfc1dcf71743db47d586,Twin Falls ID,64,80
+5ec1bfc1dcf71743db47d587,Tyler-Longview(Lufkin & Nacogdoches) TX,52,55
+5ec1bfc1dcf71743db47d588,Utica NY,51,65
+5ec1bfc1dcf71743db47d589,Victoria TX,42,54
+5ec1bfc1dcf71743db47d58a,Waco-Temple-Bryan TX,49,51
+5ec1bfc1dcf71743db47d58b,Washington DC (Hagerstown MD),60,76
+5ec1bfc1dcf71743db47d58c,Watertown NY,58,57
+5ec1bfc1dcf71743db47d58d,Wausau-Rhinelander WI,75,73
+5ec1bfc1dcf71743db47d58e,West Palm Beach-Ft. Pierce FL,59,75
+5ec1bfc1dcf71743db47d58f,Wheeling WV-Steubenville OH,61,73
+5ec1bfc1dcf71743db47d590,Wichita Falls TX & Lawton OK,46,56
+5ec1bfc1dcf71743db47d591,Wichita-Hutchinson KS,61,63
+5ec1bfc1dcf71743db47d592,Wilkes Barre-Scranton PA,62,74
+5ec1bfc1dcf71743db47d593,Wilmington NC,59,66
+5ec1bfc1dcf71743db47d594,Yakima-Pasco-Richland-Kennewick WA,57,64
+5ec1bfc1dcf71743db47d595,Youngstown OH,52,65
+5ec1bfc1dcf71743db47d596,Yuma AZ-El Centro CA,60,60
+5ec1bfc1dcf71743db47d597,Zanesville OH,66,68
