@@ -1,0 +1,1 @@
+We calculate the Procrustes distances between weekdays and weekends and compare the the Procrustes distance between the COVID19 (actual) scenario and normal scenario.

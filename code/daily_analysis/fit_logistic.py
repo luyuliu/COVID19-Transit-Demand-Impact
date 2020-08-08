@@ -39,8 +39,6 @@ def resize(arr, lower=0.0, upper=1.0):
 for each_system in rl_system:
     _id = each_system["_id"]
     system_name = each_system["name"]
-    if system_name == "KCATA":
-        continue
     metro_area = each_system["metro_area"]
     print(system_name, metro_area)
     rl_ridership = col_ridership.find(
@@ -50,16 +48,23 @@ for each_system in rl_system:
         y.append(each_record["demand_decrease"])
     x = list(range(len(y)))
     # print((x))
+    rl_ridership = col_case.find(
+        {"county_FIPS": county_FIPS}).sort("date", ASCENDING)
+    y = []
+    x0_first_date = 0
+
+    for each_record in rl_ridership:
+        y.append(each_record["confirmed"])
+        if each_record["confirmed"] < 1:
+            x0_first_date +=1
 
     p_guess = (int(np.median(x)), 0, 1.0, 0.5)
-    # if system_name == "CATA":
-    #     continue
     p, cov, infodict, mesg, ier = leastsq(
         residuals, p_guess, args=(x, y), full_output=1)
 
     x0, y0, L, k = p
-    results_005 = x0 - np.log(2/(0.05)-1)/k # 2.5% range
-    results_095 = x0 + np.log(2/(0.05)-1)/k # 97.5% range
+    results_005 = x0 - np.log(2/(0.05)-1)/k # 2.5% range, cliff point
+    results_095 = x0 + np.log(2/(0.05)-1)/k # 97.5% range, base point
     print('''\
     x0 = {x0}
     y0 = {y0}
@@ -68,10 +73,8 @@ for each_system in rl_system:
     x005 = {results_005}
     '''.format(x0=x0, y0=y0, L=L, k=k, results_005=results_005))
     
-    
-
     col_system.update_one({"_id": _id}, {"$set": {
-                          "B": L, "k": k, "t0": x0, "b": y0, "divergent_point": results_005, "convergent_point": results_095, "modified_at": date.today().strftime("%Y%m%d")}}
+                          "B": L, "k": k, "t0": x0, "b": y0, "first_case_date":x0_first_date, "cliff_point": results_005, "base_point": results_095, "modified_at": date.today().strftime("%Y%m%d")}}
                           )
 
     xp = np.linspace(0, len(x), len(y))

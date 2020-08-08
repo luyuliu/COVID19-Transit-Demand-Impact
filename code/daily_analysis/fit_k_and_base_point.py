@@ -14,7 +14,7 @@ col_system = db_corona.system_info
 col_case = db_corona.corona_cases_usafacts
 col_ridership = db_corona.ridership
 
-rl_system = col_system.find({}).sort("divergent_point", 1)
+rl_system = col_system.find({}).sort("base_point", 1)
 
 
 def sigmoid(p, x):
@@ -50,14 +50,14 @@ y = []
 x = []
 for each_record in rl_ridership:
     y.append(each_record["k"])
-    # x.append(each_record["divergent_point"])
-    x.append(each_record["divergent_point"])
+    # x.append(each_record["cliff_point"])
+    x.append(each_record["base_point"])
 
 y = np.array(y)
 x = np.array(x)
 # print((x), y)
 
-p_guess = (-3.66, 30, 0)
+p_guess = (3.66, 30, 0)
 p, cov, infodict, mesg, ier = leastsq(
     residuals, p_guess, args=(x, y), full_output=1)
 
@@ -73,10 +73,10 @@ d = {d0}
 '''.format(a0=a0, b0=b0, d0=d0))
 
 p = p_guess
-xp = np.array(list(range(-5, (30))))
+xp = np.array(list(range(30, (70))))
 pxp = sigmoid(p, xp)
 # print(pxp)
-start_date = datetime.strptime("20200215", "%Y%m%d")
+start_date = datetime.strptime("20200316", "%Y%m%d")
 # xx = [(start_date + timedelta(days=int(i))).strftime("%Y%m%d") for i in x]
 # print(xx)
 xl = []
@@ -93,12 +93,14 @@ plt.xticks(xl, xll,
 
 # Plot separately
 the_plot = plt.plot(x, y, '.', xp, pxp, '-')
-plt.xlabel('x: Cliff point')
+plt.xlabel('x: Base point')
 plt.ylabel('y: Decay rate', rotation='vertical')
 plt.grid(True)
-# plt.title("Decay rate - divergent point", fontsize=16)
+# plt.title("Decay rate - cliff point", fontsize=16)
+# plt.savefig(
+#     "C:\\Users\\liu.6544\\Desktop\\coronapics\\k_and_cliff_scatter.jpg")
 plt.savefig(
-    "C:\\Users\\liu.6544\\Desktop\\coronapics\\k_and_cliff_scatter.jpg")
+    "C:\\Users\\liu.6544\\Desktop\\coronapics\\k_and_base_scatter.jpg")
 plt.clf()
 
 
