@@ -1,0 +1,4 @@
+# Request hourly transit demand
+Hourly transit demand data is a third-party data that we cannot upload directly. According to [PLOS ONE's third-party data sharing policy](https://journals.plos.org/plosone/s/data-availability#loc-third-party-data), we share the method to access the data here. 
+
+We requested the hourly transit demand data by submitting the [Transit COVID-19 data request form](https://docs.google.com/forms/d/e/1FAIpQLSf2s1qO1_xNJbxbDwopODgdgl1kR1BBho61AEiC4Yo1e5u6hg/viewform). Researchers should fill in the form and the Transit app will contact via email. The request form can also be found at Transit app's Coronavirus webpage: [How coronavirus is disrupting public transit](https://transitapp.com/coronavirus).
