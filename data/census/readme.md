@@ -11,7 +11,7 @@ It contains the county-level housing units by vehicles availabe information we u
 It contains the county-level income information we used in the analyses. Table name: A14006; Median Household Income.
 
 ## census_occu_pop.csv
-It contains the county-level occupation information we used in the analyses. Table name: A17004; Industry by Occupation for Employed Civilian Population 16 years and over.
+It contains the county-level occupation information we used in the analyses. Table name: B17008; Occupation for Employed Civilian Population 16 Years and Over.
 
 ## census_race.csv
 It contains the county-level age information we used in the analyses. Table name: A03001; Race. A04001; Hispanic or Latino by Race.
